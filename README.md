@@ -1,10 +1,9 @@
 # Hola! I'm Vikas Pal
 
-<p align="center">
+ <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/94/7e/cd/947ecdd8a62529e6eea7ca74b032f4b2.gif"
+    src="https://i.pinimg.com/736x/8b/9a/39/8b9a3992e03712635ee6182ab7829b48.jpg"
     width="100%"
-    height="150"
     style="object-fit: cover;"
   />
 </p>
@@ -17,7 +16,10 @@
 
 
 My work focuses on full-stack AI development, building scalable backend systems and APIs.  
-I primarily work with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> **Next.js**,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> **TypeScript**,<img src="https://img.icons8.com/ios-filled/50/api.png" width="18"/> **REST APIs**, <img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="18"/> **tRPC**,and <img src="https://img.icons8.com/ios-filled/50/connection-status-on.png" width="18"/> **RPC-based architectures** self-taught backend-focused developer and **6× hackathon winner** from **India 🇮🇳**.
+I primarily work with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" style="vertical-align: middle;"/> **Next.js**,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" style="vertical-align: middle;"/> **TypeScript**,<img src="https://img.icons8.com/ios-filled/50/api.png" width="18" style="vertical-align: middle;"/> **REST APIs**,<img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="18" style="vertical-align: middle;"/> **tRPC**,
+and <img src="https://img.icons8.com/ios-filled/50/connection-status-on.png" width="18" style="vertical-align: middle;"/> **RPC-based architectures**. Self-taught backend-focused developer and **6× hackathon winner** from **India 🇮🇳** 
+
+
 
 
 
