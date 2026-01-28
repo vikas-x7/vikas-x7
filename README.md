@@ -7,10 +7,7 @@
 
 
 <img
-  src="https://i.pinimg.com/originals/2a/67/40/2a6740de4c904fe09787291ef6801592.gif"
-  width="100%"
-  height="160"
-  style="object-fit: cover;"
+  src="_.jpeg"
 />
 
 
