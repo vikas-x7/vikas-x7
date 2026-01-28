@@ -12,8 +12,6 @@
 
 
 
-## Full-stack Software Engineer | AI & Backend Focused
-
 
 ## Full-stack Software Engineer | AI & Backend Focused
 
