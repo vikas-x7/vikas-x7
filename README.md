@@ -4,9 +4,8 @@
 
 ## Full-stack Software Engineer | AI & Backend Focused
 
-My work focuses on full-stack AI development, building scalable backend systems and APIs.  
-I primarily work with **Next.js, TypeScript, REST APIs, tRPC, and RPC-based architectures**.  
-Self-taught backend-focused developer and **6× hackathon winner** from **India 🇮🇳**.
+
+My work focuses on full-stack AI development, building scalable backend systems and APIs.  I primarily work with **Next.js, TypeScript, REST APIs, tRPC, and RPC-based architectures**.  Self-taught backend-focused developer and **6× hackathon winner** from **India 🇮🇳**.
 
 
 
