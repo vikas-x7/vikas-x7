@@ -4,19 +4,9 @@
 
 ## Full-stack Software Engineer | AI & Backend Focused
 
-I build scalable web apps and AI-driven systems.  
-Self-taught developer, 6x hackathon winner, experienced in turning ideas into real products.
+My work focuses on full-stack AI development, building scalable backend systems and APIs.  
+I primarily work with **Next.js, TypeScript, REST APIs, tRPC, and RPC-based architectures**.  
+Self-taught backend-focused developer and **6× hackathon winner** from **India 🇮🇳**.
 
-
-###  Tech Stack
-**Languages:** JavaScript, TypeScript, Python, C/C++  
-**Frontend:** React.js, Next.js, TailwindCSS, Shadcn-UI  
-**Backend:** Node.js, Express, Flask  
-**Databases:** MongoDB, PostgreSQL, Vector DBs  
-**AI/ML:** LangChain, RAG, Hugging Face, Ollama  
-**Tools:** Git, Docker, Redis, Postman, Vercel
-
-###  Highlights
-- 6× Hackathon Winner / Runner-Up  
 
 
