@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hola! I'm Vikas Pal 
 
-<!--
-**vikas-x7/vikas-x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Software Engineer | AI & Backend Focused
 
-Here are some ideas to get you started:
+My world revolves around full-stack AI development, building scalable systems. I primarily work with  [**Next.js**](https://nextjs.org),
+[**TypeScript**](https://www.typescriptlang.org),
+[**REST APIs**](https://restfulapi.net),
+[**PostgreSQL**](https://www.postgresql.org),
+and [**Prisma**](https://www.prisma.io). 
+**full-stack AI developer** and **🏆 6× hackathon winner** from **India 🇮🇳**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/6d/26/9c/6d269c944a328b4da6929aa1341ce9e1.jpg"   />
+</p>
+
+
