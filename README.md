@@ -10,7 +10,7 @@ and [**Prisma**](https://www.prisma.io).
 **full-stack AI developer** and **🏆 6× hackathon winner** from **India 🇮🇳**
 <p align="center">
   <img 
-    src="https://i.pinimg.com/1200x/ef/0a/61/ef0a614c42d2c59f8e4d8e2450409be1.jpg"
+    src="https://res.cloudinary.com/dyv9kenuj/image/upload/v1777611299/Screenshot_from_2026-05-01_10-23-33_bq1f85.png"
     style="filter: grayscale(100%);"
   />
 </p>
