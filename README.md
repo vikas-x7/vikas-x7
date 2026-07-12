@@ -2,7 +2,7 @@
 
 AI Full-stack Software Engineer 
 
-My world revolves around full-stack AI development, building scalable systems. I primarily work with TypeScript ,Nextjs ,Nest js, postgresql  AI Full stack developer and 🏆 6 hackathon winner from India 🇮🇳 .
+My world revolves around building scalable full-stack AI applications and backend systems. I primarily work with TypeScript, Next.js, NestJS, and PostgreSQL. I'm a Full-Stack AI Developer and 🏆 6× Hackathon Winner from India 🇮🇳.
 
 
 
